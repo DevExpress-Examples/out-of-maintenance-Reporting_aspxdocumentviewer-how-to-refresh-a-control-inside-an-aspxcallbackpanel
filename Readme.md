@@ -8,6 +8,9 @@
 * [reportSelection.js](./CS/T133267_CS/Scripts/reportSelection.js)
 <!-- default file list end -->
 # ASPxDocumentViewer - How to refresh a control inside an ASPxCallbackPanel
+<!-- run online -->
+**[[Run Online]](https://codecentral.devexpress.com/t133267)**
+<!-- run online end -->
 
 <br/>
 
