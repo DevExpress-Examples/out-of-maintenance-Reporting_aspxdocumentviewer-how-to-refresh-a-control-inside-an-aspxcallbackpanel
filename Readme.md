@@ -9,7 +9,7 @@
 <!-- default file list end -->
 # ASPxDocumentViewer - How to refresh a control inside an ASPxCallbackPanel
 <!-- run online -->
-**[[Run Online]](https://codecentral.devexpress.com/t133267)**
+**[[Run Online]](https://codecentral.devexpress.com/t133267/)**
 <!-- run online end -->
 
 <br/>
