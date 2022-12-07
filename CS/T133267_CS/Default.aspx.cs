@@ -1,5 +1,5 @@
 ﻿using System;
-using DevExpress.Web.ASPxClasses;
+using DevExpress.Web;
 using DevExpress.XtraReports.UI;
 using T133267_CS.Reports;
 

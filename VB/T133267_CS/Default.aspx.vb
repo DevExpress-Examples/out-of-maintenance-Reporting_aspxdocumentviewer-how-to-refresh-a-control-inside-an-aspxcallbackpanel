@@ -1,5 +1,5 @@
 ﻿Imports System
-Imports DevExpress.Web.ASPxClasses
+Imports DevExpress.Web
 Imports DevExpress.XtraReports.UI
 Imports T133267_CS.Reports
 

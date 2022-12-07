@@ -1,8 +1,8 @@
 ﻿<%@ Page Language="C#" AutoEventWireup="true" CodeBehind="Default.aspx.cs" Inherits="T133267_CS.Default" %>
 
-<%@ Register Assembly="DevExpress.Web.v14.1" Namespace="DevExpress.Web.ASPxCallbackPanel" TagPrefix="dx" %>
-<%@ Register Assembly="DevExpress.XtraReports.v14.1.Web" Namespace="DevExpress.XtraReports.Web" TagPrefix="dx" %>
-<%@ Register Assembly="DevExpress.Web.v14.1" Namespace="DevExpress.Web.ASPxPanel" TagPrefix="dx" %>
+<%@ Register Assembly="DevExpress.Web.v15.1" Namespace="DevExpress.Web" TagPrefix="dx" %>
+<%@ Register Assembly="DevExpress.XtraReports.v15.1.Web" Namespace="DevExpress.XtraReports.Web" TagPrefix="dx" %>
+
 
 <!DOCTYPE html>
 
